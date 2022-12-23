@@ -1,1 +1,2 @@
-# coursera_html_css_js-
+The files include the solutions of the coursera course.
+"html css and javascript"
